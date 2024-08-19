@@ -20,7 +20,7 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/Malik_Uzair_Mk/Fox-CC
+git clone https://github.com/MalikUzairMk/Malik-Uzair-MK-.git
 ```
 ```
 cd Malik-CC
