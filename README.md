@@ -1,4 +1,4 @@
-#  Malik Uzair MK Fox CC
+#  Maoik Uzair MK Fox CC
 [-] Malik Uzair  MK Tools 
 # Features
 > [&] Fast & easy 
